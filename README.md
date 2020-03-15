@@ -9,3 +9,8 @@ void main(void)
 {
 
 }
+
+void test(void)
+{
+
+}
