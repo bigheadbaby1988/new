@@ -7,7 +7,7 @@
 
 void main(void)
 {
-
+1
 }
 
 void test(void)
