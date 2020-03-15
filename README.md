@@ -15,3 +15,8 @@ void test(void)
 	1
 	2
 }
+
+void test2()
+{}
+
+
