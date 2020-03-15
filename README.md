@@ -12,5 +12,5 @@ void main(void)
 
 void test(void)
 {
-
+	1
 }
